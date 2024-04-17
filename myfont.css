@@ -1,0 +1,31 @@
+@font-face {
+    font-family: 'FSAlbertArabic';
+    src: url('https://github.com/essamharoon/files/raw/main/FSAlbertArabic-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FSAlbertArabic';
+    src: url('https://github.com/essamharoon/files/raw/main/FSAlbertArabic-Light.woff') format('woff');
+    font-weight: 300; /* Light */
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FSAlbertArabic';
+    src: url('https://github.com/essamharoon/files/raw/main/FSAlbertArabic-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'FSAlbertArabic';
+    src: url('https://github.com/essamharoon/files/raw/main/FSAlbertArabic-ExtraBold.woff') format('woff');
+    font-weight: 800; /* Extra Bold */
+    font-style: normal;
+}
+
+body {
+    font-family: 'FSAlbertArabic', sans-serif;
+}
